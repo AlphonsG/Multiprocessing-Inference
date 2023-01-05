@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+pyproject.toml
+multiprocessing_inference/__init__.py
+multiprocessing_inference/multiprocessing_inference.py
+multiprocessing_inference.egg-info/PKG-INFO
+multiprocessing_inference.egg-info/SOURCES.txt
+multiprocessing_inference.egg-info/dependency_links.txt
+multiprocessing_inference.egg-info/requires.txt
+multiprocessing_inference.egg-info/top_level.txt

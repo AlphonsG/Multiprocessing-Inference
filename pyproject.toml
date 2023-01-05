@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multiprocessing_inference"
+description = ""
+readme = "README.md"
+authors = [
+    {name = "Alphons Gwatimba"},
+    {email = "0go0vdp95@mozmail.com"}
+]
+requires-python = ">=3.7"
+license = {file = "LICENSE"}
+version = "0.1.0"
+dependencies = [
+    "python-dotenv",
+]
+
+[project.urls]
+homepage = "https://github.com/AlphonsG/multiprocessing_inference"
+documentation = "https://github.com/AlphonsG/multiprocessing_inference"
+repository = "https://github.com/AlphonsG/multiprocessing_inference"
+
+[project.optional-dependencies]
+test = ['pytest', 'pytest-cov']
+
+[tool.setuptools]
+packages = ["multiprocessing_inference"]

@@ -1,0 +1,5 @@
+python-dotenv
+
+[test]
+pytest
+pytest-cov

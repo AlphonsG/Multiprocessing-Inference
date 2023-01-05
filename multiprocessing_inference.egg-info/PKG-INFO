@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: multiprocessing-inference
+Version: 0.1.0
+Author: Alphons Gwatimba
+Author-email: 0go0vdp95@mozmail.com
+Project-URL: homepage, https://github.com/AlphonsG/multiprocessing_inference
+Project-URL: documentation, https://github.com/AlphonsG/multiprocessing_inference
+Project-URL: repository, https://github.com/AlphonsG/multiprocessing_inference
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE.md
+
+# Multiprocessing-Inference
